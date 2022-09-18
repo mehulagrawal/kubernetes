@@ -35,6 +35,27 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "b809b765-7df9-4df0-8c5e-df35a0bcef27",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"url": {
+					"raw": "etsdjkfhasdfh\\",
+					"host": [
+						"etsdjkfhasdfh"
+					],
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
 		}
 	]
 }
