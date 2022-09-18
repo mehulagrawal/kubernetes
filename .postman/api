@@ -4,6 +4,7 @@ id = fcb85c1f-33be-42a4-99d5-b0ecad9ad0a9
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"23369946-72b44283-b37a-4852-8ff4-449c99725de4","path":"New Collection.json","metaData":{}}
 
 [relations.collections.metaData]
 
@@ -57,6 +58,7 @@ files[] = {"path":"openapi-spec/v3/apis__storage.k8s.io__v1beta1_openapi.json","
 files[] = {"path":"openapi-spec/v3/apis__storage.k8s.io_openapi.json","metaData":{}}
 files[] = {"path":"openapi-spec/v3/apis_openapi.json","metaData":{}}
 files[] = {"path":"openapi-spec/v3/logs_openapi.json","metaData":{}}
+files[] = {"path":"openapi-spec/v3/New.json","metaData":{}}
 files[] = {"path":"openapi-spec/v3/openid__v1__jwks_openapi.json","metaData":{}}
 files[] = {"path":"openapi-spec/v3/version_openapi.json","metaData":{}}
 
