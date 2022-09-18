@@ -46,12 +46,9 @@
 				"method": "PATCH",
 				"header": [],
 				"url": {
-					"raw": "etsdjkfhasdfh\\",
+					"raw": "etsdjkfhasdfh",
 					"host": [
 						"etsdjkfhasdfh"
-					],
-					"path": [
-						""
 					]
 				}
 			},
